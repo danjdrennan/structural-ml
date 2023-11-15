@@ -7,8 +7,17 @@ __pycache__/
 *.so
 
 # Data
+data/
 *.csv
 *.npy
+*.npz
+*.h5
+*.hdf5
+*.pkl
+*.pickle
+*.pkl.gz
+*.pickle.gz
+*.pt
 
 # Distribution / packaging
 .Python
