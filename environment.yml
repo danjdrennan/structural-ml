@@ -1,0 +1,13 @@
+name: tensorly
+channels:
+  - tensorly
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11.5
+  - tensorly
+  - seaborn
+  - scikit-learn
+  - scipy
+  - ipython
+  - ipykernel
